@@ -20,13 +20,13 @@ Bộ kiểm thử tự động gồm **165 test case** thuộc **21 chức năng
 ### Thành viên
 
 | STT | Họ và tên | Mã sinh viên |
-|---|---|---|---|---|
-| 1 | Đặng Duy Tiến – 2024602037 | 
-| 2 |  Lê Văn Đạt – 2024606413 | 
-| 3 | Đinh Đức Khang – 2024608633 | 
-| 4 | Nguyễn Tường Nguyên  – 2023603386 | 
+|---|---|---|
+| 1 | Đặng Duy Tiến | 2024602037 |
+| 2 | Lê Văn Đạt | 2024606413 |
+| 3 | Đinh Đức Khang | 2024608633 |
+| 4 | Nguyễn Tường Nguyên | 2023603386 |
 
----
+
 
 ## 2. Kết quả kiểm thử
 
